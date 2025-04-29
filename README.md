@@ -1,2 +1,3 @@
-Git Practice Repository
-Hi, Thabang Here. This repo is for practice
+Hi, Welcome. This repo is for practice.
+The owner of this repo is Dikotope T.
+Bye....
